@@ -14,12 +14,6 @@ A real-time chatting system built with the MERN stack (MongoDB, Express, React, 
 
 ---
 
-## Demo
-
-Add a link or screenshots here if you have a live demo or images!
-
----
-
 ## Installation
 
 1. Clone the repository:
